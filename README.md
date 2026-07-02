@@ -11,5 +11,6 @@
 | **TP 3** | Solucionar un problema en diferentes paradigmas. | [Abrir TP3](./TP_3.ipynb) |
 | **TP 4** | Identificar la gramática del IF en los lenguajes proporcionados (las urls del repo) reescribiendo las producciones desde el axioma hasta los terminales. | [Abrir TP4](./TP_4.ipynb) |
 | **TP 5** | Tabla GIC, BNF, EBNF y ABNF del lenguaje BRA. | [Abrir TP5](./TP_5.ipynb) |
+| **TP 6** | Semantica. | [Abrir TP6](./TP_6.ipynb) |
 
 ---
